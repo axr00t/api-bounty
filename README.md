@@ -6,6 +6,7 @@
 
 <br>
 
+## ℹ️ About
 The API Bounty tool automates the process of searching for API Keys in Bug Bounty programs, performing a wide variety of search tasks.
 
 <img align="center" src="https://i.imgur.com/mP1f5Gm.png"/>
