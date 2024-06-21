@@ -19,8 +19,9 @@ This project needs the following tools installed::
 - httpx-toolkit
 - katana
 - secretfinder
-https://i.imgur.com/sVroP7k.png
-Important: You need the secretfinder tool (https://github.com/m4ll0k/SecretFinder), clone the repository and insert the installation path in the api-bounty tool code.
+  
+⚠️Important: You need the secretfinder tool (https://github.com/m4ll0k/SecretFinder), clone the repository and insert the installation path in the api-bounty tool code.
+
 <img align="center" src="https://i.imgur.com/sVroP7k.png"/>
 
 ## 💻 How to use
